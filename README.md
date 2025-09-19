@@ -5,3 +5,5 @@ Group Members:
 Alex Costello
 
 Charles (CJ) Gordon
+
+Jose Carrasco
